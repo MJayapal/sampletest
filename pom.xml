@@ -29,7 +29,7 @@
         </dependency>
   </dependencies>
   <build>
-    <finalName>psdapp-devloped by Puspanth Reddy P</finalName>
+    <finalName>psdapp-devloped by Puspanth Reddy P- Expert</finalName>
     <plugins>
       <plugin>
          <groupId>org.jacoco</groupId>
